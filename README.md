@@ -26,7 +26,7 @@ Código (entre crases)
 `print("hello")`
 
 Link:
-[Site do IFc] (https://ifc.edu.br/)
+[Site do IFC](https://ifc.edu.br/)
 
 Número|Nome|Nota
 -|-|-
